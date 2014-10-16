@@ -1,7 +1,7 @@
 libtcod-test
 ============
 
-This "game" was made as a test of libtcods pythoin bindings.
+This "game" was made as a test of libtcods python bindings.
 
 You start on the map with 10 enemies. They are perfectly harmless,
 in fact, they really really like you. Don't let them swarm you.
